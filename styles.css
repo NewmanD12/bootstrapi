@@ -24,3 +24,7 @@ h1 {
     font-style: italic;
     color: #999;
 }
+
+#results {
+    color: black;
+}
